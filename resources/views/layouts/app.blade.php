@@ -60,6 +60,9 @@
     <script src="{{ asset('library/moment/min/moment.min.js') }}"></script>
     <script src="{{ asset('js/stisla.js') }}"></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js"></script>
+    <script src="/js/page/modules-sweetalert.js"></script>
+
     @stack('scripts')
 
     <!-- Template JS File -->
